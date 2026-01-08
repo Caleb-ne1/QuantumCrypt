@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 """
 🔐 QUANTUMCRYPT v1.0 🔐
 AES-256-GCM | SCRYPT KDF | Folder & File Encryption

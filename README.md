@@ -67,13 +67,13 @@ cd QuantumCrypt
 2. Make it executable:
 
 ```bash
-chmod +x crypt
+chmod +x crypt.py
 ```
 
 3. Move to `/usr/local/bin` to run it globally:
 
 ```bash
-sudo mv crypt /usr/local/bin/
+sudo mv crypt.py crypt /usr/local/bin/
 ```
 
 Now you can run the `crypt` command from anywhere.
